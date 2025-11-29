@@ -1,0 +1,8 @@
+{
+  "name": "aternos-bot",
+  "version": "1.16.5",
+  "main": "index.js",
+  "dependencies": {
+    "mineflayer": "^4.12.0"
+  }
+}
